@@ -17,5 +17,27 @@
     border-radius: 8px;
     color: #fff;
     font-size: 15px;
-    cursor: progress;
+    cursor: pointer;
 }
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-1 {
+    background-image: linear-gradient(to left, #fbdd05 8%, #ffa500f5 100%);
+}
+.cat-2 {
+    background-image: linear-gradient(to right, #ec44b1 8%, #e20639f5 100%);
+}
+
+.cat-3 {
+    background-image: linear-gradient(to right, #fde116 8%, #b2dc0cf5 100%);
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+
