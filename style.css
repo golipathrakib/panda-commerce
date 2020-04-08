@@ -40,4 +40,11 @@
 .categories img{
     width: 100px;
 }
-
+.card{
+    border: none;
+    box-shadow: 5px 6px 10px #bfc4d2;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
